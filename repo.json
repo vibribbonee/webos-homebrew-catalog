@@ -13,14 +13,14 @@
       "manifest": {
         "id": "com.spinoff.lumahome",
         "title": "Luma Home",
-        "version": "0.4.30",
+        "version": "0.4.31",
         "type": "web",
         "iconUri": "https://raw.githubusercontent.com/vibribbonee/luma-home-webos/main/src/com.spinoff.lumahome/icon.png",
         "sourceUrl": "https://github.com/vibribbonee/luma-home-webos",
         "rootRequired": true,
-        "ipkUrl": "https://github.com/vibribbonee/luma-home-webos/releases/download/v0.4.30-preview/com.spinoff.lumahome_0.4.30_all.ipk",
+        "ipkUrl": "https://github.com/vibribbonee/luma-home-webos/releases/download/v0.4.31-preview/com.spinoff.lumahome_0.4.31_all.ipk",
         "ipkHash": {
-          "sha256": "f26997416e7d92b4a64cd44e6b6d91174f8344d9dfcb21bfc50f994bb76fba3c"
+          "sha256": "fd188787f5d682418fd81e2317336c908bcd6331ae012bb44f6e1b223d3535ab"
         },
         "appDescription": "Home Assistant launcher and overlays"
       }
@@ -32,14 +32,14 @@
       "manifest": {
         "id": "com.spinoff.lumahome.overlay",
         "title": "Luma Camera Overlay",
-        "version": "0.4.30",
+        "version": "0.4.31",
         "type": "web",
         "iconUri": "https://raw.githubusercontent.com/vibribbonee/luma-home-webos/main/src/com.spinoff.lumahome.overlay/icon.png",
         "sourceUrl": "https://github.com/vibribbonee/luma-home-webos",
         "rootRequired": true,
-        "ipkUrl": "https://github.com/vibribbonee/luma-home-webos/releases/download/v0.4.30-preview/com.spinoff.lumahome.overlay_0.4.30_all.ipk",
+        "ipkUrl": "https://github.com/vibribbonee/luma-home-webos/releases/download/v0.4.31-preview/com.spinoff.lumahome.overlay_0.4.31_all.ipk",
         "ipkHash": {
-          "sha256": "e5bad7545741a36160ba9913635ac607ea9f8d04a7b4d4b49be1aa4eefa45274"
+          "sha256": "23bb57988b3b14c257ae0d756e4264c8a23f782d0cb36549212b21c43472e79d"
         },
         "appDescription": "Home Assistant launcher and overlays"
       }
