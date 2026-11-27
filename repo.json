@@ -51,14 +51,14 @@
       "manifest": {
         "id": "com.webosbrew.panelcomfort",
         "title": "PanelComfort",
-        "version": "0.3.22",
+        "version": "0.3.23",
         "type": "web",
         "iconUri": "https://raw.githubusercontent.com/vibribbonee/panelcomfort-webos/main/src/com.webosbrew.panelcomfort/icon.png",
         "sourceUrl": "https://github.com/vibribbonee/panelcomfort-webos",
         "rootRequired": true,
-        "ipkUrl": "https://github.com/vibribbonee/panelcomfort-webos/releases/download/v1.20.0/com.webosbrew.panelcomfort_0.3.22_all.ipk",
+        "ipkUrl": "https://github.com/vibribbonee/panelcomfort-webos/releases/download/v1.20.1/com.webosbrew.panelcomfort_0.3.23_all.ipk",
         "ipkHash": {
-          "sha256": "b3cb4af217c14e033b813e274d707902affc150ff62b61ffc01406a201d06004"
+          "sha256": "cb108161904445d32c366cdb44616c84a000c10a7bd31e7dafa144a8f0519483"
         },
         "appDescription": "Scheduled panel brightness and Eye Comfort"
       }
