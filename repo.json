@@ -1,0 +1,86 @@
+{
+  "paging": {
+    "page": 1,
+    "count": 4,
+    "maxPage": 1,
+    "itemsTotal": 4
+  },
+  "packages": [
+    {
+      "id": "com.spinoff.lumahome",
+      "title": "Luma Home",
+      "iconUri": "https://raw.githubusercontent.com/vibribbonee/luma-home-webos/main/src/com.spinoff.lumahome/icon.png",
+      "manifest": {
+        "id": "com.spinoff.lumahome",
+        "title": "Luma Home",
+        "version": "0.4.30",
+        "type": "web",
+        "iconUri": "https://raw.githubusercontent.com/vibribbonee/luma-home-webos/main/src/com.spinoff.lumahome/icon.png",
+        "sourceUrl": "https://github.com/vibribbonee/luma-home-webos",
+        "rootRequired": true,
+        "ipkUrl": "https://github.com/vibribbonee/luma-home-webos/releases/download/v0.4.30-preview/com.spinoff.lumahome_0.4.30_all.ipk",
+        "ipkHash": {
+          "sha256": "f26997416e7d92b4a64cd44e6b6d91174f8344d9dfcb21bfc50f994bb76fba3c"
+        },
+        "appDescription": "Home Assistant launcher and overlays"
+      }
+    },
+    {
+      "id": "com.spinoff.lumahome.overlay",
+      "title": "Luma Camera Overlay",
+      "iconUri": "https://raw.githubusercontent.com/vibribbonee/luma-home-webos/main/src/com.spinoff.lumahome.overlay/icon.png",
+      "manifest": {
+        "id": "com.spinoff.lumahome.overlay",
+        "title": "Luma Camera Overlay",
+        "version": "0.4.30",
+        "type": "web",
+        "iconUri": "https://raw.githubusercontent.com/vibribbonee/luma-home-webos/main/src/com.spinoff.lumahome.overlay/icon.png",
+        "sourceUrl": "https://github.com/vibribbonee/luma-home-webos",
+        "rootRequired": true,
+        "ipkUrl": "https://github.com/vibribbonee/luma-home-webos/releases/download/v0.4.30-preview/com.spinoff.lumahome.overlay_0.4.30_all.ipk",
+        "ipkHash": {
+          "sha256": "e5bad7545741a36160ba9913635ac607ea9f8d04a7b4d4b49be1aa4eefa45274"
+        },
+        "appDescription": "Home Assistant launcher and overlays"
+      }
+    },
+    {
+      "id": "com.webosbrew.panelcomfort",
+      "title": "PanelComfort",
+      "iconUri": "https://raw.githubusercontent.com/vibribbonee/panelcomfort-webos/main/src/com.webosbrew.panelcomfort/icon.png",
+      "manifest": {
+        "id": "com.webosbrew.panelcomfort",
+        "title": "PanelComfort",
+        "version": "0.3.20",
+        "type": "web",
+        "iconUri": "https://raw.githubusercontent.com/vibribbonee/panelcomfort-webos/main/src/com.webosbrew.panelcomfort/icon.png",
+        "sourceUrl": "https://github.com/vibribbonee/panelcomfort-webos",
+        "rootRequired": true,
+        "ipkUrl": "https://github.com/vibribbonee/panelcomfort-webos/releases/download/v1.18.0/com.webosbrew.panelcomfort_0.3.20_all.ipk",
+        "ipkHash": {
+          "sha256": "38147f979bfa83f5957ad41961aa9475845709dbabb8a261fd0fbe1cb453097d"
+        },
+        "appDescription": "Scheduled panel brightness and Eye Comfort"
+      }
+    },
+    {
+      "id": "org.webosbrew.arcguard",
+      "title": "ARC Guard",
+      "iconUri": "https://raw.githubusercontent.com/vibribbonee/arcguard/main/app/icon.png",
+      "manifest": {
+        "id": "org.webosbrew.arcguard",
+        "title": "ARC Guard",
+        "version": "1.0.9",
+        "type": "web",
+        "iconUri": "https://raw.githubusercontent.com/vibribbonee/arcguard/main/app/icon.png",
+        "sourceUrl": "https://github.com/vibribbonee/arcguard",
+        "rootRequired": true,
+        "ipkUrl": "https://github.com/vibribbonee/arcguard/releases/download/v1.0.9/ARCGuard_1.0.9.ipk",
+        "ipkHash": {
+          "sha256": "9635f8bcdba084d237cf0193dd662a37849f130d78df410ce0d703e1c4894132"
+        },
+        "appDescription": "Rooted webOS TV helper that monitors Sound Out and can cautiously restore HDMI ARC/eARC when the selected output changes."
+      }
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "packages": [
+    {
+      "id": "com.spinoff.lumahome",
+      "title": "Luma Home",
+      "repository": "vibribbonee/luma-home-webos",
+      "icon": "src/com.spinoff.lumahome/icon.png",
+      "description": "Home Assistant launcher and overlays",
+      "prerelease": true
+    },
+    {
+      "id": "com.spinoff.lumahome.overlay",
+      "title": "Luma Camera Overlay",
+      "repository": "vibribbonee/luma-home-webos",
+      "icon": "src/com.spinoff.lumahome.overlay/icon.png",
+      "description": "Home Assistant launcher and overlays",
+      "prerelease": true
+    },
+    {
+      "id": "com.webosbrew.panelcomfort",
+      "title": "PanelComfort",
+      "repository": "vibribbonee/panelcomfort-webos",
+      "icon": "src/com.webosbrew.panelcomfort/icon.png",
+      "description": "Scheduled panel brightness and Eye Comfort"
+    },
+    {
+      "id": "org.webosbrew.arcguard",
+      "title": "ARC Guard",
+      "repository": "vibribbonee/arcguard",
+      "icon": "app/icon.png",
+      "asset": "ARCGuard_(?P<version>[0-9][0-9.]*)\\.ipk",
+      "description": "Rooted webOS TV helper that monitors Sound Out and can cautiously restore HDMI ARC/eARC when the selected output changes."
+    }
+  ]
+}
